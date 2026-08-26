@@ -1,4 +1,3 @@
-[README (3).md](https://github.com/user-attachments/files/31448714/README.3.md)
 # 🎮 Tic Tac Toe — DevSecOps & Kubernetes Project
 
 A production-style **Tic Tac Toe web application** deployed using a complete DevSecOps workflow.  
